@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="logomain_rc">
+    <file>img/logomain.png</file>
+  </qresource>
+</RCC>

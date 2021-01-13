@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="botaologar_rc">
+    <file>img/botaologar.png</file>
+  </qresource>
+</RCC>

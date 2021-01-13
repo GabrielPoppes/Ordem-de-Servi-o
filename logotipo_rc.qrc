@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="logoos_rc">
+    <file>img/logoos2.png</file>
+  </qresource>
+</RCC>

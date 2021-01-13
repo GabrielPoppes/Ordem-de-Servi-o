@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="btnx_rc">
+    <file>img/cil-x.png</file>
+  </qresource>
+</RCC>
